@@ -11,6 +11,6 @@ int main()
     cout << "Enter the value of b\n";
     cin >> b;
 
-    cout << "Sum of two numbers is " << a + b << endl;
+    cout << "The sum is " << a + b << endl;
     return 0;
 }
