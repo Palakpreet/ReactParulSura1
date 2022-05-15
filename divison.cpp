@@ -11,6 +11,6 @@ int main()
     cout << "Enter the value of b\n";
     cin >> b;
 
-    cout << "Divison is " << a / b << endl;
+    cout << " Divison is " << a / b << endl;
     return 0;
 }
